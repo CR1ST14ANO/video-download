@@ -11,7 +11,6 @@
         "laravel/framework": "^11.31",
         "laravel/tinker": "^2.9",
         "laravel/ui": "^4.6",
-        "league/flysystem-aws-s3-v3": "^3.0",
         "norkunas/youtube-dl-php": "^2.9"
     },
     "require-dev": {
